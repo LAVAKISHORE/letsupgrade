@@ -1,0 +1,7 @@
+CREATE DATABASE sql;
+CREATE TABLE todo_list(
+   task_id varchar,
+   task_name varchar,
+   description varchar,
+   is_completed varchar
+);
